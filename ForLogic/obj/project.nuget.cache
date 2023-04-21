@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/BGPoeKTSoqa7gXtogkhQaPv3/o7kpYE0Mu+6WqVxppo2rw9j7fZ08ToZ3t8Hk9G2qs/Q/RvHGkyjtGsygZZOw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\ForLogic\\ForLogic\\ForLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mazza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
